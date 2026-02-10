@@ -1,3 +1,3 @@
 # SmartHomeElectrics - SHE
 
-IoT Electrics management system
+IoT Electroics management system for households
