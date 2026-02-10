@@ -1,0 +1,1 @@
+# ReactNative mobile project for managing IoT device remotely
